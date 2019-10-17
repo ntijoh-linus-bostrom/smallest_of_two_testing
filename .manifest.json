@@ -3,7 +3,8 @@
     "filePath": "lib/smallest_of_two.js",
     "language": "javascript",
     "functionName": "smallestOfTwo",
-    "functionArity": 2,
+    "functionParameters": ["num1", "num2"],
+    "functionSpan": [2, 8],
     "tests": [
         {"description": "First is smallest", 
          "arguments": [1,2], 
