@@ -1,6 +1,6 @@
 {
     "assignmentName": "Smallest of Two",
-    "filePath": "lib/smallest_of_twoFELFILEPATH.js",
+    "filePath": "lib/smallest_of_two.js",
     "language": "javascript",
     "functionName": "smallestOfTwo",
     "functionParameters": ["num1", "num2"],
